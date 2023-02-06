@@ -2,10 +2,10 @@ public class while_loop {
     public static void main(String[] args){
         System.out.println("Testing 'while' loops in java!");
 
-        // Testing "sumupto" function
+        // Testing "sumupto" function which uses the "while" construct
         System.out.println(sumupto(5));
 
-        // Testing "sumupto_alt" function
+        // Testing "sumupto_alt" function which uses the "do-while" construct
         System.out.println(sumupto_alt(10));
     }
 
