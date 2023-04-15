@@ -1,0 +1,5 @@
+PPA2 week 8 Java
+
+Could not solve the problem because of issues with converting strings to date and vice-versa. 
+
+
